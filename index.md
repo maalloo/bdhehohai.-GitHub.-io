@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+###个人信息
+####姓名：邱应超
+####班级：通信191
+####学历：本科
+####邮箱：1339717128@qq.com
+####学校：浙江万里学院
 
-You can use the [editor on GitHub](https://github.com/maalloo/bdhehohai.-GitHub.-io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+###性格与爱好
+####爱好：打篮球、乒乓球、街舞和打游戏。
+####性格：乐观开朗，积极向上，温和大方，善良。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###社会经历
+####在奶茶店当过服务员
+####在电影院做过前台
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maalloo/bdhehohai.-GitHub.-io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###理想
+####自己是一个积极向上的人，向往上流社会，为此现在在不断的努力去提高自己，为自己以后的创业铺路。
